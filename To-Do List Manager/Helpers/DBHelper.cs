@@ -10,7 +10,7 @@ namespace To_Do_List_Manager.Helpers
 {
     public class DBHelper
     {
-        public static string conStr = "YOUR CONNECTING STRING";
+        public static string conStr = "YOUR CONNECTION STRING";
 
         public static SqlConnection OpenConnection()
         {

@@ -10,7 +10,7 @@ namespace To_Do_List_Manager.Helpers
 {
     public class DBHelper
     {
-        public static string conStr = "Server=MYOUNES-LAPTOP;Database=TaskManagerDb;Integrated Security=True;";
+        public static string conStr = "YOUR CONNECTING STRING";
 
         public static SqlConnection OpenConnection()
         {
